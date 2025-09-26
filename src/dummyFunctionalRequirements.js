@@ -1,4 +1,4 @@
-const expectedRequirements = {
+const expectedFunctionalRequirements = {
   "Design a chat application": [
     "User authentication",
     "Message persistence",
@@ -13,4 +13,6 @@ const expectedRequirements = {
   ]
 };
 
-export default expectedRequirements;
+
+
+export default expectedFunctionalRequirements;
